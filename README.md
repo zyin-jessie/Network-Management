@@ -48,8 +48,9 @@ The goal of this repository is to document my progress in networking, strengthen
 
 ```
 ├── _public/          # Images, diagrams, and assets
-├── activities/       # Practice labs and exercises
-├── assignments/      # School or project-based tasks
+├── Activities/       # Practice labs and exercises
+├── Assignments/      # School or project-based tasks
+├── Lectures/         # Discussions, and reference materials
 ```
 
 ## Purpose
