@@ -4,7 +4,7 @@
   </a>
 </div>
 
-# Networking Management
+# Network Management
 
 This repository contains my networking activities and assignments focused on **Cisco Packet Tracer simulations**. It showcases practical implementations of networking concepts, configurations, and troubleshooting scenarios.
 
